@@ -26,7 +26,7 @@
  * @author    E. McConville <emcconville@emcconville.com>
  */
 
-//@NAMESPACE@ namespace emcconville {
+namespace emcconville {
 
 class Polyline
 {
@@ -275,4 +275,4 @@ class Polyline
     }
 }
 
-//@NAMESPACE@ }
+}
