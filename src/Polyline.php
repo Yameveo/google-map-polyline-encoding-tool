@@ -26,7 +26,7 @@
  * @author    E. McConville <emcconville@emcconville.com>
  */
 
-namespace emcconville {
+namespace emcconville;
 
 class Polyline
 {
@@ -273,6 +273,4 @@ class Polyline
         } while (!empty($list));
         return $pairs;
     }
-}
-
 }
